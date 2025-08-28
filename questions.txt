@@ -2,22 +2,22 @@
 2. Write a program to check if a number is even or odd using if-else statements.
 3. Write a program to check if a year is a leap year using if-else statements.
 4. Write a program in C to find the second largest number using if-else statements.
-5. Write a program in C to check whether a triangle is equilateral, scalene or isosceles.
-6. Write a program in C to check whether a number is negative, positive or zero.
-7. Write a program in C to check whether an alphabet is vowel or consonant using switch
+5. Write a program in C to check whether a triangle is equilateral, scalene, or isosceles.
+6. Write a program in C to check whether a number is negative, positive, or zero.
+7. Write a program in C to check whether an alphabet is a vowel or a consonant using a switch
 case.
-8. Write a program to print the times\multiplication table of a number using a while loop.
+8. Write a program to print the times/multiplication table of a number using a while loop.
 9. Write a program to print the Fibonacci series using a for loop.
 10. Write a program to check if a number is prime or not using a for loop.
 11. Write a program to find the factorial of a number using a while loop.
 12. Write a program to print a series.
-13. Write a program to print triangle pattern/pyramid pattern/reversed triangle pattern.
-14. write a program in C to find the sum of digits of a number.
+13. Write a program to print a triangle pattern/pyramid pattern/reversed triangle pattern.
+14. Write a program in C to find the sum of the digits of a number.
 15. Write a C program to find the sum of elements in an array.
 16. Write a program in C to store elements in an array and print them.
 17. Write a program in C to read n number of values in an array and display them in reverse
 order.
-18. Write a program in C to find maximum and minimum elements in an array.
+18. Write a program in C to find the maximum and minimum elements in an array.
 19. Write a program in C to count negative elements in an array.
 20. Write a program in C to find the middle array index.
 21. Write a program in C to copy the elements of one array into another array.
@@ -34,7 +34,6 @@ order.
 32. Write a C program to count the number of words in a string.
 33. Write a C program to find the length of a string without using the strlen() function.
 34. Write a C program to convert all characters of a string to uppercase.
-
 35. Write a C program to convert all characters of a string to lowercase.
 36. Write a C program to extract a substring from a given string.
 37. Write a C program to remove all spaces from a given string.
@@ -43,18 +42,18 @@ order.
 40. Write a C program to check if a given string is a palindrome or not.
 41. Write a C program to remove all occurrences of a particular character from a string.
 42. Write a program in C to find the cube of a number using a function.
-43. Write a program in C to find maximum and minimum using functions.
+43. Write a program in C to find the maximum and minimum using functions.
 44. Write a program in C to print numbers between given intervals using functions.
 45. Write a program to find the GCD of two numbers using a function.
 46. Write a program to find the LCM of two numbers using a function.
 47. Write a program to calculate the area of a circle using a function.
 48. Write a program to convert Celsius to Fahrenheit using a function.
 49. Write a program to find the factorial of a number using a function.
-50. Write a program in C to find power of any number using recursion.
+50. Write a program in C to find the power of any number using recursion.
 51. Write a program in C to find the sum of all natural numbers between 1 to n using
 recursion.
 52. Write a program in C to find the reverse of a number using recursion.
-53. Write a program in C to generate nth Fibonacci term using recursion.
+53. Write a program in C to generate the nth Fibonacci term using recursion.
 54. Write a program to swap two numbers using pointers.
 55. Write a program to reverse a string using pointers.
 56. Write a program to find the largest element in an array using pointers.
